@@ -1,4 +1,7 @@
 package Clase1
 
-class Repeact {
+fun main(){
+    repeat(3){
+        println("hola")
+    }
 }

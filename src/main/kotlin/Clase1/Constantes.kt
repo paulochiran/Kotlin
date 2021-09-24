@@ -1,4 +1,6 @@
 package Clase1
 
-class Constantes {
+object Constantes  {
+
+    const val MAXIMO = 10
 }
